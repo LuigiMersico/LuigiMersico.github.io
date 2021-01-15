@@ -7,9 +7,55 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://luigimersico.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>IMP</title>
+      <link>https://luigimersico.github.io/tags/imp/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://luigimersico.github.io/tags/imp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interaction</title>
+      <link>https://luigimersico.github.io/tags/interaction/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://luigimersico.github.io/tags/interaction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project</title>
+      <link>https://luigimersico.github.io/tags/project/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://luigimersico.github.io/tags/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Public-Private</title>
+      <link>https://luigimersico.github.io/tags/public-private/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://luigimersico.github.io/tags/public-private/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relationship</title>
+      <link>https://luigimersico.github.io/tags/relationship/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://luigimersico.github.io/tags/relationship/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
